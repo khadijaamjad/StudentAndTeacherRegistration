@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StaffInfo>
+  <Teacher>
+    <StaffID>9187</StaffID>
+    <FirstName>abc</FirstName>
+    <LastName>def</LastName>
+    <PhoneNo>02167892333</PhoneNo>
+    <CNIC>7162533345678</CNIC>
+    <Department>IPP</Department>
+    <Email>abc@gmail.com</Email>
+    <Username>abc</Username>
+    <Password>abc690def</Password>
+  </Teacher>
+  <Teacher>
+    <StaffID>9197</StaffID>
+    <FirstName>kao</FirstName>
+    <LastName>Chen</LastName>
+    <PhoneNo>02167162733</PhoneNo>
+    <CNIC>7162589345678</CNIC>
+    <Department>CE</Department>
+    <Email>laoo@gmail.com</Email>
+    <Username>kao</Username>
+    <Password>kdaeof</Password>
+  </Teacher>
+  <Teacher>
+    <StaffID>9812</StaffID>
+    <FirstName>Asiya</FirstName>
+    <LastName>Majid</LastName>
+    <PhoneNo>0323224476895</PhoneNo>
+    <CNIC>4210143437180</CNIC>
+    <Department>IPP</Department>
+    <Email>asiyamajid2@gmail.com</Email>
+    <Username>asiyamajid</Username>
+    <Password>a98majid12</Password>
+  </Teacher>
+</StaffInfo>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StudentInfo>
+  <Student>
+    <RegistrationNo>61789</RegistrationNo>
+    <FirstName>Abdullah</FirstName>
+    <LastName>Rehman</LastName>
+    <PhoneNo>03186544344</PhoneNo>
+    <CNIC>4210166656320</CNIC>
+    <IntakeYear>2016</IntakeYear>
+    <Department>BA</Department>
+    <Email>krehman@gmail.com</Email>
+    <Username>krehman</Username>
+    <Password>abcd123</Password>
+  </Student>
+  <Student>
+    <RegistrationNo>51731</RegistrationNo>
+    <FirstName>Amna</FirstName>
+    <LastName>Zafar</LastName>
+    <PhoneNo>03162344212</PhoneNo>
+    <CNIC>4211177765243</CNIC>
+    <IntakeYear>2016</IntakeYear>
+    <Department>CE</Department>
+    <Email>azafar@gmail.com</Email>
+    <Username>azafar</Username>
+    <Password>amna5173zaf</Password>
+  </Student>
+</StudentInfo>
